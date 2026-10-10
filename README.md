@@ -11,6 +11,7 @@ Built with **Vite**, **vanilla HTML/CSS/JavaScript** — no framework weight, pr
 - Hero terminal **typewriter effect** (DevOps CLI commands)
 - Count-up stats (scroll-triggered)
 - Skills shown as clean capability cards with focus tags (no fake percentage meters)
+- Full **DevOps tool brand icons** inline anywhere a tool appears — tool-cloud chips, hero visual, skill cards and certifications (no extra icon requests)
 - Scrollspy active nav, reveal-on-scroll, back-to-top button
 - GPU-friendly particle/network background (pauses when tab hidden, disabled on reduced-motion)
 - Full a11y: skip link, ARIA landmarks/state, focus styles, `prefers-reduced-motion` support
